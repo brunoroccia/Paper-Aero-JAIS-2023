@@ -1,6 +1,6 @@
 # The folder Supplementary Data contains all the benchmark cases included in the following Journal Paper:
 
-Authors: Verstraete, M.L., Ceballos, L.C., Hente, C., Roccia, B.A., amd Gebhardt, C.G.
+Authors: Verstraete, M.L., Ceballos, L.C., Hente, C., Roccia, B.A., and Gebhardt, C.G.
 Title: A code-to-code benchmark for simulation tools based on the unsteady vortex-lattice method
 Journal: Journal of Aerospace Information Systems
 Publisher: AIAA
